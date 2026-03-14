@@ -76,11 +76,7 @@ const photos = [
       </span>
     </>
   )
-},
-
-
- 
- 
+} 
 ]
 
 export default function Gallery({ next, back }) {
