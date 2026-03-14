@@ -7,7 +7,7 @@ import img3 from '../assets/girl1.png'
 
 
 import clickSound from '../assets/click.mp3'
-import memorySound from '../assets/memory.mp3'
+import memorySound from '../assets/memory1.mp3'
 
 const photos = [
   {
@@ -145,7 +145,7 @@ export default function Gallery({ next, back }) {
             >
               <div className="photo-inner">
                 <div className="photo-front">
-                  <img src={item.img} alt="memory" />
+                  <img src={item.img} alt="memory1" />
                 </div>
 
                 <div className="photo-back">
