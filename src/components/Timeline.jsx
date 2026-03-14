@@ -12,7 +12,7 @@ export default function Timeline({ next, back }) {
         <h1>Thanmayee’s Journey</h1>
 
         <div className="timeline-item">
-          <p>🌸 Born on a calm February 19th day, in Wanaparthy — where her story quietly began.</p>
+          <p>🌸 Born on a calm March 15th day — where her story quietly began.</p>
         </div>
 
         <div className="timeline-item">
@@ -28,7 +28,7 @@ export default function Timeline({ next, back }) {
         </div>
 
         <div className="timeline-item">
-          <p>✈️ A US visa — earned, not gifted.</p>
+          <p>✈️ A visa — earned, not gifted.</p>
         </div>
 
         <div className="timeline-item">
