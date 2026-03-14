@@ -9,7 +9,7 @@ export default function Timeline({ next, back }) {
         animate={{ opacity: 1 }}
         transition={{ duration: 1.5 }}
       >
-        <h1>Thanmayee’s Journey</h1>
+        <h1>Mahima’s Journey</h1>
 
         <div className="timeline-item">
           <p>🌸 Born on a calm March 15th day — where her story quietly began.</p>
