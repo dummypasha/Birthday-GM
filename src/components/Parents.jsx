@@ -36,7 +36,7 @@ export default function Parents({ next, back }) {
         {/* Navigation */}
         <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '40px' }}>
           <button onClick={back}>← Back</button>
-          <button onClick={next}>Someone special →</button>
+          <button onClick={next}>Something special →</button>
         </div>
       </motion.div>
     </section>
