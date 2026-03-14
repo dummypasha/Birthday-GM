@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import gfImage from '../assets/gf.png'
+import gfImage from '../assets/gd1.png'
 
 export default function HomeSafePlace({ next, back, stopGfMusic }) {
   return (
