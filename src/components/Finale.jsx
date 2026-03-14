@@ -1,6 +1,6 @@
 import Confetti from 'react-confetti'
 import { useEffect, useState } from 'react'
-import birthdayPic from '../assets/ORG_GIRL.jpg'
+import birthdayPic from '../assets/ORG_GIRL2.jpg.jpg'
 
 export default function Finale({ back, goHome }) {
   const [show, setShow] = useState(true)
