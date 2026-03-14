@@ -10,41 +10,30 @@ export default function HomeSafePlace({ next, back, stopGfMusic }) {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 2 }}
       >
-        <h1>Her Safe Place</h1>
+        <h1>A Girl With Quiet Strength 🌷 & The Journey of Her Dreams 🌙</h1>
 
         <div className="grandfather-image">
           <img src={gfImage} alt="Grandfather memory" />
         </div>
 
         <p>
-          For every festival, every little happiness 🌸  
-          her heart always knew where to go.
+         She carries a quiet strength in her heart 🌙  
+         Even miles away from home, chasing her dreams in a new country, she never forgets where she came from.
         </p>
 
         <p>
-          Her grandfather’s home was more than a place —  
-          it was comfort, warmth, and love.
+          In the middle of busy days, new places, and big goals - 
+          there is still a gentle part of her that remembers the small moments that shaped her.
         </p>
 
         <p>
-          He held her hand,  
-          making sure she never felt alone 🕊️
+          She smiles, learns, grows —   
+          but deep inside, she is still the same girl who believes in kindness, family, and little pieces of happiness.
         </p>
 
         <p>
-          Without many words,  
-          he always believed in her.
-        </p>
-
-        <p>
-          Among all the siblings,  
-          his support for her was gentle, special, and constant.
-        </p>
-
-        <p>
-          Even today 🤍  
-          his love walks beside her —  
-          quietly, endlessly, forever.
+          And no matter how far she travels ✨ 
+          her heart always finds its way back to the people who made her feel loved.
         </p>
 
         {/* Navigation */}
