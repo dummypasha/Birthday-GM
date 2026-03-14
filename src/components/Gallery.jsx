@@ -33,10 +33,10 @@ const photos = [
   img: img3,
   text: (
     <>
-      <span>Heyyy… first of all, I’m really proud of you 🤍✨</span>
+      <span>Heyyy… first of all, I don't know how to start🤍✨</span>
       <span>
         The way you care for your friends and your close people is honestly the cutest thing ever.
-        Ni innocence lo oka chinna magic untundi… that’s rare.
+        that’s rare.
       </span>
       <span>
         The way you respect your family, the way you value their feelings —
@@ -52,7 +52,7 @@ const photos = [
         that quiet courage you carry inside.
       </span>
       <span>
-       Now that you’re in the US, building your life on your own,
+       Now that you’re in the Other country, building your life on your own,
        standing on your own feet — that independence honestly looks really good on you.
       </span>
       <span>
@@ -69,7 +69,10 @@ const photos = [
       </span>
       <span>
         Just stay the same, okay?
-        That soft heart + strong mindset + innocence + fearless dhairyam combo… it’s something really special 🤍✨
+        That soft heart + strong mindset + fearless dhairyam combo… it’s something really special 🤍✨
+      </span>
+      <span>
+          inka apestha 😂, haha i have said all the positives which i have observed.
       </span>
     </>
   )
@@ -77,18 +80,7 @@ const photos = [
 
 
  
-  {
-    img: img4,
-    text: (
-      <>
-        <span>Thanks for clicking this✨ moment 🎬</span>
-        <span>
-          
-          I hope you remembered it — 🤍
-        </span>
-      </>
-    )
-  }
+ 
 ]
 
 export default function Gallery({ next, back }) {
