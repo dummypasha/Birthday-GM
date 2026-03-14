@@ -20,7 +20,7 @@ export default function Finale({ back, goHome }) {
           <img src={birthdayPic} alt="Birthday Girl" />
         </div>
 
-        <h1>Happiest Birthday Thanmayee 🎂💖</h1>
+        <h1>Happiest Birthday Mahima 🎂💖</h1>
 
         <p>
           You deserve happiness, endless smiles.  
