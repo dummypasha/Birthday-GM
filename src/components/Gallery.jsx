@@ -4,7 +4,7 @@ import { useState, useRef } from 'react'
 import img1 from '../assets/girl1.png'
 import img2 from '../assets/girl1.png'
 import img3 from '../assets/girl1.png'
-import img4 from '../assets/girl2.png'
+
 
 import clickSound from '../assets/click.mp3'
 import memorySound from '../assets/memory.mp3'
